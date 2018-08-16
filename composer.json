@@ -2,7 +2,7 @@
     "name": "unifun/curl",
     "description": "Curl Helper",
     "type": "library",
-    "license": "proprietary",
+    "license": "MIT",
     "authors": [
         {
             "name": "Nick Shtansky",
